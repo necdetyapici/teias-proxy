@@ -1,0 +1,6 @@
+@TeiasProxy_HostAddress = http://localhost:5217
+
+GET {{TeiasProxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
